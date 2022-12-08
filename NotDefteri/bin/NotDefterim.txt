@@ -1,0 +1,14 @@
+@Ogrenci No - Adi        - Soyadi    - Vize1   - Vize2    -  Final  - HarfNot
+250          - Ahmet    - Yasar        - 50 
+450          - Ali       - Mutlu        - 60 
+333          - Burak      - Bulut       - 70 
+360           - Mustafa   - Buhar       - 50 
+380           - Bahar     - Yilmaz      - 80 
+402           - Ayse      - Coban       - 90 
+950            - Mutlu     - Yasar      - 100 
+110            - Ercan     - Yildirim    - 80 
+220            - Veysel     - Ton        - 80 
+280            - Nigar      - ersu       - 100 
+255            - Ayten     - Can         - 80 
+259            - Ahmet     - Burcak      - 85 
+
