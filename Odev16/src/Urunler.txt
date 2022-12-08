@@ -1,0 +1,15 @@
+Domates, 12.0KG, 4.0
+Muz, 16.0KG, 10.0
+Elma, 24.0KG, 6.0
+Uzum, 20KG, 8
+Salatalik, 30KG, 4
+Incir, 6.0KG, 15.0
+Mantar, 10KG, 20
+Havuc, 25KG, 3
+Ispanak, 30KG, 7
+Brokoli, 30KG, 11
+Karnabahar, 20KG, 10
+Patates, 50KG, 5
+Sogan, 50KG, 4
+Pirasa, 8.0KG, 7.0
+Lahana, 20.0KG, 8.0

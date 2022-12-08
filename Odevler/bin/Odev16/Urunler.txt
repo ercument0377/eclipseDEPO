@@ -1,0 +1,15 @@
+URUNNO URUN                 - KG        - FIYAT
+1      -Domates              - 30        -   4
+2      -Muz                  - 20        -  10
+3      -Elma                 - 30        -   6
+4      -Uzum                 - 20        -   8
+5      -Salatalik            - 30        -   4
+6      -Incir                - 15        -  15
+7      -Mantar               - 10        -  20
+8      -Havuc                - 25        -   3
+9      -Ispanak              - 30        -   7
+10     -Brokoli              - 30        -  11
+11     -Karnabahar           - 20        -  10
+12     -Patates              - 50        -   5
+13     -Sogan                - 50        -   4
+14     -Pirasa               - 10        -   7
